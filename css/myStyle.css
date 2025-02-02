@@ -27,6 +27,11 @@ button {
     color: white;
 }
 
+#stopBtn {
+    background-color: red;
+    color: white;
+}
+
 #timerDisplay {
     font-size: 3em;
     margin-top: 20px;
